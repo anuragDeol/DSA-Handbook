@@ -1,7 +1,6 @@
 `This is how any problem in this repo will look like this:`
 
-### Problem Name
-[Problem Link]
+### [Problem Name (with link)](https://github.com/anuragDeol/DSA-Handbook/)
 
 ### Intuition (with Time and Space Analysis)
 1. Brute Force
