@@ -16,8 +16,7 @@ Hi, This is my personal collection of DSA (Primarily LeetCode) solutions with ex
 ```
 
 ## Solution Format
-To keep things simple, each solution only includes:
-- Problem Name
-- Problem Link
+To keep things simple, each solution only includes: 
+- [Problem Name (with link)](https://github.com/anuragDeol/DSA-Handbook/)
 - Intuition (with Time and Space Analysis)
 - Key points
